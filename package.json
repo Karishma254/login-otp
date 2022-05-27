@@ -1,0 +1,25 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bookidgen": "^1.0.7",
+    "express": "^4.18.1",
+    "hash": "^0.2.1",
+    "moment": "^2.29.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16",
+    "nvm": "0.0.4"
+  },
+  "keywords": [],
+  "description": ""
+}
